@@ -1,2 +1,2 @@
 # fire_alarm_idf
-esp32 idf
+esp32 idf code ở trong nhánh master
